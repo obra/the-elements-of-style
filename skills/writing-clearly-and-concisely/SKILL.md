@@ -51,3 +51,11 @@ When context is tight, dispatch a subagent with `elements-of-style.md` for the f
 
 The full 18 rules + the alphabetical "Words and Expressions Commonly Misused" section live in `elements-of-style.md`. The high-leverage rules referenced above:
 10 active voice · 11 positive form · 12 concrete language · 13 omit needless words · 16 related words together · 18 emphatic words at end.
+
+## Common cuts
+
+- "In order to" → "To" (or drop)
+- "It is important to note that" → drop
+- "The fact that X" → "X"
+- "is being Xed" → "X-es" (active voice)
+- "make a concerted effort to" → drop the wrapper, keep the verb
