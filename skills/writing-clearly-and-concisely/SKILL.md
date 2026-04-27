@@ -58,4 +58,3 @@ The full 18 rules + the alphabetical "Words and Expressions Commonly Misused" se
 - "It is important to note that" → drop
 - "The fact that X" → "X"
 - "is being Xed" → "X-es" (active voice)
-- "make a concerted effort to" → drop the wrapper, keep the verb
