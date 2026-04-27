@@ -25,21 +25,17 @@ Use this skill whenever you write prose for humans:
 
 ## Register Awareness — Apply Strunk Lightly Here
 
-Strunk's rules were written for general English prose. Some inputs need restraint, not enthusiasm. Classify the input before editing:
+Classify the input before editing. Strunk's rules misfire on some registers.
 
-1. **Academic / scholarly prose** — paper drafts, research notes, peer-review responses. Preserve scholarly verbs (`shows`, `reports`, `presents`, `demonstrates`, `preserves`), academic plural `we`, hedges that carry epistemic weight (`leaving its micro-level cause to future work`), and domain compound modifiers (`per-contract dispatch identity`, `cold-cache compile time`). Strunk's "Omit needless words" misfires when a hedge IS the claim.
-2. **Technical / code-adjacent prose** — release notes, API docs, error messages naming internal systems. Preserve technical terms verbatim. Hyphenated compound modifiers in this register are usually domain conventions; do not strip them.
-3. **Direct quotes, citations, bibliography** — leave verbatim. Edit only the framing narrative.
-4. **Code blocks, file paths, command examples, function signatures** — leave verbatim. Strunk has nothing to say about `cargo build --release`.
-5. **Default (blog, marketing, README narrative, commit message body)** — apply all rules with the usual ruthlessness.
+1. **Academic / scholarly** — preserve scholarly verbs (`shows`, `reports`, `demonstrates`, `preserves`), academic plural `we`, epistemic hedges, and domain compound modifiers (`per-contract dispatch identity`, `cold-cache compile time`).
+2. **Technical / code-adjacent** — preserve technical terms verbatim. Domain hyphenated compounds are not "needless words".
+3. **Direct quotes, citations, bibliography** — leave verbatim; edit framing only.
+4. **Code, paths, commands, signatures** — never edit.
+5. **Default (blog, README, marketing, commit body)** — apply all rules.
 
-**When in doubt, default to register 5 and note your assumption in the output** so the user can correct you.
+When in doubt, default to register 5 and note the assumption.
 
-### What restraint looks like
-
-When the register is 1 or 2, the most useful Strunk moves are: rule 10 (active voice), rule 13 (omit truly needless words like "in order to"), rule 16 (keep related words together), rule 18 (emphatic words at end). The rules to apply with caution: rule 11 (positive form — academic prose sometimes uses negation precisely), rule 12 (concrete language — academic prose uses abstraction by design), rule 13 in its maximalist reading (cutting hedges that the author put there on purpose).
-
-If a sentence carries a hedge, a citation, a named entity, or a number, those parts are not "needless words" — they are the load-bearing content.
+In registers 1–2, lean on rule 10 (active voice), 13 (cut filler like "in order to"), 16, 18. Apply rule 11 (positive form), 12 (concrete), and the maximalist reading of 13 with caution: hedges, citations, named entities, and numbers are load-bearing, not needless.
 
 ## Limited Context Strategy
 
