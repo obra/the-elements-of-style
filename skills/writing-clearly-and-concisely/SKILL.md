@@ -37,40 +37,17 @@ When in doubt, default to register 5 and note the assumption.
 
 In registers 1–2, lean on rule 10 (active voice), 13 (cut filler like "in order to"), 16, 18. Apply rule 11 (positive form), 12 (concrete), and the maximalist reading of 13 with caution: hedges, citations, named entities, and numbers are load-bearing, not needless.
 
-## Limited Context Strategy
+## Process
 
-When context is tight:
-1. Write your draft using judgment
-2. Dispatch a subagent with your draft and `elements-of-style.md`
-3. Have the subagent copyedit and return the revision
+1. **Classify the register** (1–5 above).
+2. **Identify load-bearing content**: hedges, citations, named entities, numbers, technical compounds, scholarly verbs. These survive every cut.
+3. **Apply Strunk's rules.** Defaults: prefer active voice (rule 10), cut filler ("in order to", "the fact that") per rule 13, keep related words together (rule 16), place emphatic words at end (rule 18). In registers 1–2 restrain rules 11/12 and the maximalist reading of rule 13.
+4. **Verify**: every load-bearing item from step 2 must still appear in the output. If a hedge, citation, named entity, or number was lost, restore it.
+5. **Return only the revised text.** No commentary, no diff, no register classification line, unless the user asked.
+
+When context is tight, dispatch a subagent with `elements-of-style.md` for the full ruleset.
 
 ## All Rules
 
-### Elementary Rules of Usage (Grammar/Punctuation)
-1. Form possessive singular by adding 's
-2. Use comma after each term in series except last
-3. Enclose parenthetic expressions between commas
-4. Comma before conjunction introducing co-ordinate clause
-5. Don't join independent clauses by comma
-6. Don't break sentences in two
-7. Participial phrase at beginning refers to grammatical subject
-
-### Elementary Principles of Composition
-8. One paragraph per topic
-9. Begin paragraph with topic sentence
-10. **Use active voice**
-11. **Put statements in positive form**
-12. **Use definite, specific, concrete language**
-13. **Omit needless words**
-14. Avoid succession of loose sentences
-15. Express co-ordinate ideas in similar form
-16. **Keep related words together**
-17. Keep to one tense in summaries
-18. **Place emphatic words at end of sentence**
-
-### Section V: Words and Expressions Commonly Misused
-Alphabetical reference for usage questions
-
-## Bottom Line
-
-Writing for humans? Read `elements-of-style.md` and apply the rules. Low on tokens? Dispatch a subagent to copyedit with the guide.
+The full 18 rules + the alphabetical "Words and Expressions Commonly Misused" section live in `elements-of-style.md`. The high-leverage rules referenced above:
+10 active voice · 11 positive form · 12 concrete language · 13 omit needless words · 16 related words together · 18 emphatic words at end.
