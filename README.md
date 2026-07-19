@@ -36,3 +36,25 @@ This text is in the public domain. The original 1918 edition by William Strunk J
 - **Author**: William Strunk Jr.
 - **Publication**: 1918
 - **License**: Public Domain
+
+## Installation
+
+### Claude Code (plugin marketplace)
+
+Same pattern as [obra/superpowers](https://github.com/obra/superpowers#claude-code-via-plugin-marketplace):
+
+```bash
+# Add the marketplace (once)
+/plugin marketplace add obra/superpowers-marketplace
+
+# Install this plugin
+/plugin install elements-of-style@superpowers-marketplace
+```
+
+Or install directly from this repository if your Claude Code build supports git sources:
+
+```bash
+/plugin install https://github.com/obra/the-elements-of-style.git
+```
+
+After install, Claude can use the `writing-clearly-and-concisely` skill when editing prose or documentation.
