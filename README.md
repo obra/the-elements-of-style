@@ -35,4 +35,8 @@ This text is in the public domain. The original 1918 edition by William Strunk J
 - **Original Source**: [Project Gutenberg #37134](https://www.gutenberg.org/files/37134/37134-h/37134-h.htm)
 - **Author**: William Strunk Jr.
 - **Publication**: 1918
-- **License**: Public Domain
+- **License**: Public Domain (see [LICENSE.md](LICENSE.md))
+
+## License
+
+See [LICENSE.md](LICENSE.md). The 1918 Strunk text is public domain. Plugin packaging and original skill guidance are also public domain, matching `.claude-plugin/plugin.json`.
