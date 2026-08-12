@@ -11,7 +11,7 @@
 Register the marketplace, then install the plugin:
 
 ```
-claude /plugin marketplace add obra/elements-of-style
+claude /plugin marketplace add obra/the-elements-of-style
 ```
 
 ```

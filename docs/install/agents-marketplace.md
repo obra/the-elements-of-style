@@ -11,7 +11,7 @@
 On Factory Droid:
 
 ```
-droid plugin marketplace add https://github.com/obra/elements-of-style
+droid plugin marketplace add https://github.com/obra/the-elements-of-style
 droid plugin install elements-of-style@elements-of-style
 ```
 
@@ -20,14 +20,14 @@ Note: Droid names the marketplace after the repository source (its basename), no
 On Copilot:
 
 ```
-copilot plugin marketplace add https://github.com/obra/elements-of-style
+copilot plugin marketplace add https://github.com/obra/the-elements-of-style
 copilot plugin install elements-of-style@elements-of-style-dev
 ```
 
 On Grok:
 
 ```
-grok plugin install https://github.com/obra/elements-of-style --trust
+grok plugin install https://github.com/obra/the-elements-of-style --trust
 ```
 
 All three clients install the plugin's real claude-code-style layout (skills/, commands/, agents/, hooks/, .mcp.json) that this descriptor points at — their effective support matches claude-code's, not the all-`none` row this adapter reports in the support matrix (which reflects only the descriptor file itself, not what those clients receive through it). Consult each client's docs if these commands don't match your installed version.
