@@ -9,7 +9,7 @@
 ## Installing
 
 ```
-devin plugins install obra/elements-of-style
+devin plugins install obra/the-elements-of-style
 ```
 
 Consult Devin's plugin docs if this command doesn't match your installed version.

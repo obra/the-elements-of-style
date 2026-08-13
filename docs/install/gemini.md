@@ -12,7 +12,7 @@
 Install the extension directly from its repository:
 
 ```
-gemini extensions install https://github.com/obra/elements-of-style
+gemini extensions install https://github.com/obra/the-elements-of-style
 ```
 
 `GEMINI.md` is loaded automatically as the extension's context file; each command becomes a `/name` slash command. Consult the Gemini CLI extensions docs if this command doesn't match your installed version.
