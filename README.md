@@ -27,17 +27,17 @@ Your agent invokes `writing-clearly-and-concisely` when it writes prose. The ski
 
 | Harness | Install |
 |---|---|
-| Claude Code | see docs/install/claude-code.md |
-| Cursor | see docs/install/cursor.md |
-| Codex | see docs/install/codex.md |
-| Devin CLI | see docs/install/devin.md |
-| Kimi Code | see docs/install/kimi.md |
-| Gemini CLI | see docs/install/gemini.md |
-| OpenCode | see docs/install/opencode.md |
-| Pi | see docs/install/pi.md |
-| Hermes Agent | see docs/install/hermes.md |
-| Agent Plugins 1.0 clients | see docs/install/agent-plugins-1.0.md |
-| Factory Droid / Grok / Copilot (marketplace descriptor) | see docs/install/agents-marketplace.md |
+| Claude Code | [docs/install/claude-code.md](docs/install/claude-code.md) |
+| Cursor | [docs/install/cursor.md](docs/install/cursor.md) |
+| Codex | [docs/install/codex.md](docs/install/codex.md) |
+| Devin CLI | [docs/install/devin.md](docs/install/devin.md) |
+| Kimi Code | [docs/install/kimi.md](docs/install/kimi.md) |
+| Gemini CLI | [docs/install/gemini.md](docs/install/gemini.md) |
+| OpenCode | [docs/install/opencode.md](docs/install/opencode.md) |
+| Pi | [docs/install/pi.md](docs/install/pi.md) |
+| Hermes Agent | [docs/install/hermes.md](docs/install/hermes.md) |
+| Agent Plugins 1.0 clients | [docs/install/agent-plugins-1.0.md](docs/install/agent-plugins-1.0.md) |
+| Factory Droid / Grok / Copilot (marketplace descriptor) | [docs/install/agents-marketplace.md](docs/install/agents-marketplace.md) |
 
 <!-- everyharness:install:end -->
 
