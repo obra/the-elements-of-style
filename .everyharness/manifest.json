@@ -9,16 +9,16 @@
       "sha256": "30cf768a42597cee0e608ad3e35e25f74a6f132c1b8bfa03ab904337a630055f"
     },
     ".claude-plugin/plugin.json": {
-      "sha256": "5a52413201d0da827aeff104ba266ed28ce14b83bb6ecee71a2b49036b90059d"
+      "sha256": "79b463dcc216b52bed020854526136c89e55068896ea04025f660d67c8b37870"
     },
     ".codex-plugin/plugin.json": {
-      "sha256": "add3c2ce53a698c20ff8bc097bcb1971ccf975b77d2f867fc91a4a077f9a282a"
+      "sha256": "903a6497502226322d8bd98f760925e36481c7b4766b7b072914ff135a58be8b"
     },
     ".cursor-plugin/plugin.json": {
-      "sha256": "9c92c7801b1c2fd8ebe5383058cbde7e4be14fadf38041edd4fc6126a277d471"
+      "sha256": "0b15fb15f8afd01600304b4c875c5b3b6d30d4033e4279858f9e90c088bf3ddc"
     },
     ".devin-plugin/plugin.json": {
-      "sha256": "105d9cafe72e68126182881e5937949e7170feac3f2d70d25eb302812d37e98b"
+      "sha256": "28c73e34b762cd3a97b01da9c2f1c2d140f5343503e3683ffbbb2ae8c603888c"
     },
     ".hermes-plugin/__init__.py": {
       "sha256": "881d5c871533030533ee6103e981854f8a2b4195f2f03346398c1c44af2667f3"
@@ -27,7 +27,7 @@
       "sha256": "13a2ccb49f58fa29dd762d07215118c81dd116a7e45333c86f6e6e52aca988f8"
     },
     ".kimi-plugin/plugin.json": {
-      "sha256": "f375412487459527bcd9866d1ef4715ac138beadcb5031cc97e67243772e8047"
+      "sha256": "063064ee2352e674138a26eb2abc9875797fc3290301b1034fab75da0592e840"
     },
     ".opencode/plugins/elements-of-style.js": {
       "sha256": "0689ddbbb8d2d62e880bb91169277a2a1af04d31cd32d3bbadf2b2a8f001631c"
@@ -42,10 +42,10 @@
       "sha256": "4fb2a0722810deca116bdcd7ae4d1736e9252c23833e83bf180a402ed6c031d1"
     },
     "docs/install/agents-marketplace.md": {
-      "sha256": "8c78360c2ddf4efff8f549f662e042f84e86f67fb125688dad48a3a6355a3c99"
+      "sha256": "5cb1357819168221145901a72015fd71e3fa3cc4be5c12817707a42e9d231965"
     },
     "docs/install/claude-code.md": {
-      "sha256": "a7fa417b1600c9e6c640698992f99a94f82f4280e1e4fc146acfb7ba2af48c09"
+      "sha256": "e018cfc56f0a337eefe3cf1af049e8f5a7549cd76988fe6bec763e901a844233"
     },
     "docs/install/codex.md": {
       "sha256": "713d446f35cfa67b08e42748982d908a9e9701728a2d3cf83eb33ee840b347b3"
@@ -54,22 +54,22 @@
       "sha256": "457c3e8c3cf12a06a12d837d307e0e02464fbd370e1bcbdae7fd237ff14eee41"
     },
     "docs/install/devin.md": {
-      "sha256": "6cc86459191921538cbc9004c4090b32215950915ca93d7259dd5713b6684a2d"
+      "sha256": "edb8034eaf3804689f9423828d4a15faa57b3eb7be3d63571c571bc86d3a9fde"
     },
     "docs/install/gemini.md": {
-      "sha256": "c6aeca1d5fea47874a66748cbab2ff1691b762caed8d95d50376e329655df754"
+      "sha256": "1fc5603532882bcd9b44c99d2d371dbe5f897ec80757eee01dc4c2feca759802"
     },
     "docs/install/hermes.md": {
-      "sha256": "ad1824eaa118354f38130d119e950c60701fbc652d48b3c9959602cab68adbb3"
+      "sha256": "739b09d89448152149d2e1ab46b856af666e8147fee46a5b1722ecc8980449d4"
     },
     "docs/install/kimi.md": {
-      "sha256": "c136bcb390accd32bf21adf3e1e5da19bf8e2dd048f9bc0c520c2c89963e497a"
+      "sha256": "825ac466ca64d3288a50e4a958668986a6725fe85582acf09d373e50179b6184"
     },
     "docs/install/opencode.md": {
-      "sha256": "4ddab48d1db7d227706d56cb7cc1ed5f650eb569c2871f94d97f029de615b59d"
+      "sha256": "7f92fa10acc0945affae7cf190464858156b26bfd127b28ed84d676054b161f3"
     },
     "docs/install/pi.md": {
-      "sha256": "dc1f3f4de3b1ba7d879563a2a1fe00fac2e283c7dfc4577631b5c8a1d88ee352"
+      "sha256": "deb9772d20be0f115913d068fdf8ecf9a7fce2ff436c0aee626573f50b6330ad"
     },
     "docs/support-matrix.md": {
       "sha256": "863f6d216e778e6f12d2e5fcd6676fec743f861681b97ed597f0a5993ee47117"
@@ -78,10 +78,10 @@
       "sha256": "15d2b4fecb54283d3f6732fd34ee21adb5cf17bfe7e4b98b79142015783d8e41"
     },
     "package.json": {
-      "sha256": "8c0148449329d88aa79f1fb9c734e1b4d599fb3ffd3aaf110920ee422a9eabed"
+      "sha256": "dea9a5cbe8ebc3f8e4ca6d81f84770eeeb0f0bf9737e61ebee5eb7f16401196e"
     },
     "plugin.json": {
-      "sha256": "1093f04ee889eedb6fd1030ac7fd7a7a3fa586eba150ac493afb97f0fc1cb5d3"
+      "sha256": "b9c96fe462d3c1b28950fdac499b50cc4ce7ba0c77c377b83ffb608bd5d32c6b"
     }
   }
 }

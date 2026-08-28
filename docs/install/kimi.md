@@ -9,7 +9,7 @@
 ## Installing
 
 ```
-/plugins install https://github.com/obra/elements-of-style
+/plugins install https://github.com/obra/the-elements-of-style
 ```
 
 Or find it through the Kimi marketplace. Consult Kimi Code's plugin docs if this command doesn't match your installed version.
