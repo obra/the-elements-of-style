@@ -12,7 +12,7 @@
 Add the plugin to your project's `opencode.json`:
 
 ```json
-{ "plugin": ["elements-of-style@git+https://github.com/obra/elements-of-style.git"] }
+{ "plugin": ["elements-of-style@git+https://github.com/obra/the-elements-of-style.git"] }
 ```
 
 OpenCode loads the plugin module on startup: it registers the skills directory through a config hook (no symlinks needed) and reads commands/agents translated under `.opencode/`. Consult the OpenCode plugin docs if this doesn't match your installed version.
