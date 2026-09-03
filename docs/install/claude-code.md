@@ -11,11 +11,11 @@
 Register the marketplace, then install the plugin:
 
 ```
-claude /plugin marketplace add obra/elements-of-style
+claude /plugin marketplace add obra/the-elements-of-style
 ```
 
 ```
-/plugin install elements-of-style@elements-of-style-dev
+/plugin install the-elements-of-style@the-elements-of-style-dev
 ```
 
 If the marketplace is already registered, only the install command is needed. Consult Claude Code's plugin docs if these commands don't match your installed version.
