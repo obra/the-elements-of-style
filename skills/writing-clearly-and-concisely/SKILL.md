@@ -1,6 +1,6 @@
 ---
 name: writing-clearly-and-concisely
-description: Apply Strunk's timeless writing rules to ANY prose humans will read—documentation, commit messages, error messages, explanations, reports, or UI text. Makes your writing clearer, stronger, and more professional.
+description: Applies Strunk's Elements of Style rules to tighten prose and cut needless words. Use when writing or editing any prose a human will read: documentation, README files, commit messages, PR descriptions, error messages, UI copy, code comments, reports, or explanations.
 ---
 
 # Writing Clearly and Concisely
@@ -10,6 +10,8 @@ description: Apply Strunk's timeless writing rules to ANY prose humans will read
 William Strunk Jr.'s *The Elements of Style* (1918) teaches you to write clearly and cut ruthlessly.
 
 **WARNING:** `elements-of-style.md` consumes ~12,000 tokens. Read it only when writing or editing prose.
+
+**Where to find it:** `elements-of-style.md` lives in the **same directory as this SKILL.md** (not the plugin cache root). After loading this skill, read `./elements-of-style.md` relative to the skill directory — for example `skills/writing-clearly-and-concisely/elements-of-style.md` in a checkout, or `…/skills/writing-clearly-and-concisely/elements-of-style.md` under the plugin cache. Do **not** look for `elements-of-style.md` at the plugin package root.
 
 ## When to Use This Skill
 
